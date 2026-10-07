@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102A43"/><stop offset="1" stop-color="#1E3A5F"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="#F7F3EA"/>
+  <rect width="1080" height="390" fill="url(#bg)"/>
+  <circle cx="930" cy="80" r="270" fill="none" stroke="#179F9B" stroke-opacity=".25" stroke-width="50"/>
+  <image href="../perfect-immo-logo.png" x="60" y="60" width="370" height="105"/>
+  <text x="60" y="272" fill="#FFFFFF" font-family="Georgia" font-size="63">Vous souhaitez vendre ?</text>
+  <text x="60" y="337" fill="#C9A962" font-family="Georgia" font-size="47" font-style="italic">Commençons par la vraie valeur.</text>
+  <text x="60" y="490" fill="#179F9B" font-family="Arial" font-size="18" font-weight="700" letter-spacing="5">ESTIMATION CONFIDENTIELLE</text>
+  <text x="60" y="575" fill="#102A43" font-family="Georgia" font-size="55">Une stratégie sur mesure,</text>
+  <text x="60" y="638" fill="#102A43" font-family="Georgia" font-size="55">pas une simple estimation.</text>
+  <g font-family="Arial" fill="#42586A" font-size="24">
+    <circle cx="78" cy="738" r="18" fill="#EF9639"/><path d="M69 738l7 7 12-15" fill="none" stroke="white" stroke-width="4"/><text x="120" y="747">Analyse précise du marché local</text>
+    <circle cx="78" cy="825" r="18" fill="#EF9639"/><path d="M69 825l7 7 12-15" fill="none" stroke="white" stroke-width="4"/><text x="120" y="834">Mise en valeur professionnelle de votre bien</text>
+    <circle cx="78" cy="912" r="18" fill="#EF9639"/><path d="M69 912l7 7 12-15" fill="none" stroke="white" stroke-width="4"/><text x="120" y="921">Accompagnement discret jusqu’à la signature</text>
+  </g>
+  <rect x="60" y="1030" width="960" height="180" fill="#179F9B"/>
+  <text x="100" y="1092" fill="#FFFFFF" font-family="Arial" font-size="17" font-weight="700" letter-spacing="4">PRENEZ RENDEZ-VOUS</text>
+  <text x="100" y="1152" fill="#FFFFFF" font-family="Georgia" font-size="36">+216 28 833 283  ·  +216 27 980 387</text>
+  <text x="60" y="1288" fill="#102A43" font-family="Arial" font-size="18" letter-spacing="2">PERFECT IMMO · CENTRE URBAIN NORD, TUNIS</text>
+</svg>

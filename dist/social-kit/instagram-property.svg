@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="shade" x2="0" y2="1"><stop offset=".25" stop-color="#102A43" stop-opacity="0"/><stop offset=".8" stop-color="#102A43" stop-opacity=".92"/><stop offset="1" stop-color="#102A43"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="15" flood-opacity=".3"/></filter></defs>
+  <rect width="1080" height="1350" fill="#102A43"/>
+  <image href="../neighborhood-gammarth.webp" width="1080" height="1010" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1080" height="1350" fill="url(#shade)"/>
+  <image href="../perfect-immo-logo.png" x="54" y="45" width="350" height="108" filter="url(#shadow)"/>
+  <rect x="772" y="70" width="252" height="54" rx="27" fill="#EF9639"/>
+  <text x="898" y="104" text-anchor="middle" fill="#FFFFFF" font-family="Arial" font-size="19" font-weight="700" letter-spacing="2">EXCLUSIVITÉ</text>
+  <text x="62" y="930" fill="#C9A962" font-family="Arial" font-size="18" font-weight="700" letter-spacing="5">GAMMARTH SUPÉRIEUR</text>
+  <text x="60" y="1010" fill="#FFFFFF" font-family="Georgia" font-size="68">Villa Azur</text>
+  <text x="60" y="1080" fill="#FFFFFF" font-family="Georgia" font-size="43" font-style="italic">L’horizon comme seul voisin.</text>
+  <line x1="60" y1="1130" x2="1020" y2="1130" stroke="#FFFFFF" stroke-opacity=".25"/>
+  <g transform="translate(60 1195)" fill="#FFFFFF" font-family="Arial"><text font-size="22" font-weight="700">5 CHAMBRES</text><text x="215" font-size="22" font-weight="700">4 SDB</text><text x="340" font-size="22" font-weight="700">520 M²</text><text x="720" font-family="Georgia" font-size="35" fill="#C9A962">3 850 000 TND</text></g>
+  <text x="60" y="1302" fill="#FFFFFF" fill-opacity=".65" font-family="Arial" font-size="17">VISITES PRIVÉES · +216 28 833 283</text>
+</svg>

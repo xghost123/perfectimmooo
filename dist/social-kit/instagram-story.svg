@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs><linearGradient id="shade" x2="0" y2="1"><stop stop-color="#102A43" stop-opacity=".62"/><stop offset=".48" stop-color="#102A43" stop-opacity=".05"/><stop offset="1" stop-color="#102A43" stop-opacity=".96"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="17" flood-opacity=".3"/></filter></defs>
+  <image href="../neighborhood-sidi-bou-said.webp" width="1080" height="1920" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1080" height="1920" fill="url(#shade)"/>
+  <image href="../perfect-immo-logo.png" x="60" y="75" width="390" height="120" filter="url(#shadow)"/>
+  <rect x="60" y="310" width="325" height="51" rx="25" fill="#EF9639"/>
+  <text x="222" y="343" text-anchor="middle" fill="#FFFFFF" font-family="Arial" font-size="18" font-weight="700" letter-spacing="2">NOUVEAUTÉ À DÉCOUVRIR</text>
+  <text x="60" y="1420" fill="#C9A962" font-family="Arial" font-size="20" font-weight="700" letter-spacing="6">SIDI BOU SAÏD</text>
+  <text x="60" y="1518" fill="#FFFFFF" font-family="Georgia" font-size="78">Une adresse unique.</text>
+  <text x="60" y="1600" fill="#FFFFFF" font-family="Georgia" font-size="62" font-style="italic">Une vue inoubliable.</text>
+  <rect x="60" y="1685" width="500" height="92" rx="46" fill="#C9A962"/>
+  <text x="310" y="1743" text-anchor="middle" fill="#102A43" font-family="Arial" font-size="23" font-weight="700" letter-spacing="2">DÉCOUVRIR LE BIEN  →</text>
+  <text x="60" y="1845" fill="#FFFFFF" fill-opacity=".8" font-family="Arial" font-size="20">perfectimmo.tn  ·  +216 28 833 283</text>
+</svg>

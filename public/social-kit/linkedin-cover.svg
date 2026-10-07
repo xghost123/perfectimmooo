@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
+  <defs><linearGradient id="bg" x2="1"><stop stop-color="#102A43"/><stop offset="1" stop-color="#1E3A5F"/></linearGradient></defs>
+  <rect width="1584" height="396" fill="url(#bg)"/>
+  <path d="M870 396l235-205 175 139 137-225 225 180" fill="none" stroke="#179F9B" stroke-opacity=".35" stroke-width="10"/>
+  <g fill="none" stroke="#FFFFFF" stroke-opacity=".08"><circle cx="1390" cy="65" r="250"/><circle cx="1390" cy="65" r="180" stroke="#C9A962" stroke-opacity=".2" stroke-width="30"/></g>
+  <image href="../perfect-immo-logo.png" x="70" y="48" width="390" height="110"/>
+  <text x="72" y="242" fill="#FFFFFF" font-family="Georgia" font-size="47">L’expertise immobilière qui inspire confiance.</text>
+  <text x="74" y="298" fill="#C9A962" font-family="Arial" font-size="17" font-weight="700" letter-spacing="4">TUNIS · LA MARSA · GAMMARTH · SIDI BOU SAÏD</text>
+  <text x="74" y="348" fill="#FFFFFF" fill-opacity=".65" font-family="Arial" font-size="17">Centre Urbain Nord  ·  +216 28 833 283  ·  +216 27 980 387</text>
+</svg>

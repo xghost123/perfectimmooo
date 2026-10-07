@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="624" viewBox="0 0 1640 624">
+  <defs><linearGradient id="bg" x2="1"><stop stop-color="#102A43"/><stop offset=".62" stop-color="#1E3A5F"/><stop offset="1" stop-color="#179F9B"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-opacity=".3"/></filter></defs>
+  <rect width="1640" height="624" fill="url(#bg)"/>
+  <circle cx="1430" cy="70" r="380" fill="none" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="2"/>
+  <circle cx="1430" cy="70" r="270" fill="none" stroke="#C9A962" stroke-opacity=".18" stroke-width="50"/>
+  <path d="M1000 510l180-150 110 88 110-180 190 165" fill="none" stroke="#FFFFFF" stroke-opacity=".14" stroke-width="9"/>
+  <image href="../perfect-immo-logo.png" x="95" y="65" width="440" height="135" filter="url(#shadow)"/>
+  <text x="95" y="320" fill="#FFFFFF" font-family="Georgia" font-size="60">Votre projet immobilier,</text>
+  <text x="95" y="385" fill="#C9A962" font-family="Georgia" font-size="60" font-style="italic">parfaitement accompagné.</text>
+  <text x="98" y="450" fill="#FFFFFF" fill-opacity=".72" font-family="Arial" font-size="22" letter-spacing="1">ACHAT · VENTE · LOCATION · ESTIMATION</text>
+  <g transform="translate(98 512)" font-family="Arial" font-size="20" fill="#FFFFFF"><circle cx="10" cy="-6" r="7" fill="#EF9639"/><text x="32">Centre Urbain Nord, Tunis</text><circle cx="360" cy="-6" r="7" fill="#EF9639"/><text x="382">+216 28 833 283</text><circle cx="650" cy="-6" r="7" fill="#EF9639"/><text x="672">+216 27 980 387</text></g>
+</svg>

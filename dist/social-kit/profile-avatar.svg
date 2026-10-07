@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs><radialGradient id="bg" cx="35%" cy="25%"><stop stop-color="#2A5278"/><stop offset="1" stop-color="#102A43"/></radialGradient><filter id="glow"><feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#061726" flood-opacity=".45"/></filter></defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <circle cx="870" cy="180" r="300" fill="none" stroke="#C9A962" stroke-opacity=".17" stroke-width="2"/>
+  <circle cx="870" cy="180" r="210" fill="none" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="35"/>
+  <path d="M-60 920C210 650 340 990 630 730S1000 570 1180 720" fill="none" stroke="#179F9B" stroke-opacity=".18" stroke-width="75"/>
+  <g filter="url(#glow)">
+    <circle cx="540" cy="520" r="318" fill="#FBFAF7"/>
+    <image href="../perfect-immo-logo.png" x="220" y="395" width="640" height="192"/>
+  </g>
+</svg>
