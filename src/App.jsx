@@ -8,14 +8,6 @@ import {
 
 const images = {
   hero: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2200&q=90',
-  listings: [
-    'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=85',
-    'https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=85',
-    'https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=85',
-    'https://images.unsplash.com/photo-1600573472592-401b489a3cdc?auto=format&fit=crop&w=1200&q=85',
-    'https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1200&q=85',
-    'https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=85',
-  ],
   neighborhoods: [
     '/neighborhood-la-marsa.webp',
     '/neighborhood-sidi-bou-said.webp',
@@ -124,9 +116,11 @@ function App() {
               {listings.map((listing, index) => (
                 <article className="listing-card" key={listing.address}>
                   <div className="listing-image-wrap">
-                    <img src={images.listings[index]} alt={listing.address} />
+                    <div className="listing-placeholder" aria-label={`Photo à venir pour ${listing.address}`}>
+                      <Home size={35} />
+                      <span>Photo à venir</span>
+                    </div>
                     <span className={`badge ${listing.badge === 'Open House' ? 'open-house' : ''}`}>{listing.badge}</span>
-                    <div className="carousel-dots"><i className="active" /><i /><i /></div>
                     <div className="card-index">0{index + 1}</div>
                   </div>
                   <div className="listing-body">
